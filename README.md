@@ -22,9 +22,9 @@
 
 Launch the interactive interface:
 
-```bash
-sudo nginx_manager # Run The Tool
-```
+
+```bash  sudo nginx_manager # Run The Tool ```
+
 
 Or run quick commands:
 
