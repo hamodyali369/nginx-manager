@@ -1,0 +1,3 @@
+# Build artifacts — the binary ships via GitHub Releases, not the repo
+nginx_manager
+*.o
